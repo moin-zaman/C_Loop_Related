@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669764142 source:f:\cp\fibonacciseries\main.cpp
+	<iostream>
+	<conio.h>
+

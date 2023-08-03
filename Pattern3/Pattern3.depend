@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669759287 source:f:\cp\pattern3\main.cpp
+	<iostream>
+	<conio.h>
+

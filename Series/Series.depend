@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1669407221 source:f:\cp\series\main.cpp
+	<iostream>
+	<cmath>
+
